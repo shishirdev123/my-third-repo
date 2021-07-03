@@ -6,3 +6,13 @@ h1{
 p{
     color: slategray;
 }
+.wow{
+    color: teal;
+    background-color: thistle;
+    font-size: 24px;
+}
+.grav{
+    color: sienna;
+    background-color: rosybrown;
+    font-size: 25px;
+}
